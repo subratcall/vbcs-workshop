@@ -1,0 +1,53 @@
+{
+    "tutorials": [{
+            "title": "Getting a Cloud Trial",
+            "description": "Get a free Cloud Account to perform this lab.",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "4/10/2020",
+            "contentid": "12nnnn",
+            "filename": "README.md"
+        },
+        {
+            "filename": "LabGuide50.md",
+            "title": "Lab 50: Provisioning VBCS",
+            "description": "Learn how to provision the Visual Builder Cloud Service.",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "4/10/2020",
+            "contentid": "12nnnn"
+
+        },
+        {
+            "filename": "LabGuide100.md",
+            "title": "Lab 100: Creating a Application",
+            "description": "Learn how to create a Visual Builder application and add business data to display. ",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "4/10/2020",
+            "contentid": "12nnnn"
+
+        },
+        {
+            "filename": "LabGuide200.md",
+            "title": "Lab 200: Adding, Update and Editing Pages",
+            "description": "This lab will walk you through adding, updating and editing web pages to your application.",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "4/10/2020",
+            "contentid": "12nnnn"
+        },
+        {
+            "filename": "LabGuide300.md",
+            "title": "Lab 300: Creating a Mobile Application",
+            "description": "This lab will walk you through creating a mobile application and displaying an inventory list.",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "4/10/2020",
+            "contentid": "12nnnn"
+        },
+        {
+            "filename": "LabGuide400.md",
+            "title": "Lab 400: Incorporating REST Data into the Application",
+            "description": "Learn how to create a mobile application page for viewing an inventory item's details and incorporate data from a REST service.",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "4/10/2020",
+            "contentid": "12nnnn"
+        }
+    ]
+}
